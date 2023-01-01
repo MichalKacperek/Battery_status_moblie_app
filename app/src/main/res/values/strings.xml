@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="query">{"byteorder": "little", "content-type": "text/json", "content-encoding": "utf-8", "content-length": 83}{"action": "read", "value": "SELECT * FROM ParamsTable ORDER BY unix DESC LIMIT 1"}</string>
+</resources>
